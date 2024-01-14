@@ -1,0 +1,6 @@
+Validation Epoch #1			Loss: 3.2265 Acc@1: 38.46% 
+Validation Epoch #2			Loss: 3.1246 Acc@1: 47.92% 
+Validation Epoch #3			Loss: 3.1196 Acc@1: 48.24% 
+Validation Epoch #4			Loss: 3.1105 Acc@1: 49.52% 
+Validation Epoch #5			Loss: 3.1362 Acc@1: 46.62% 
+Validation Epoch #6			Loss: 3.1378 Acc@1: 46.50% 
